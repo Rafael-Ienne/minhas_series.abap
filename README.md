@@ -17,5 +17,10 @@ Este projeto desenvolvido em ABAP consiste em praticar um CRUD(Create, Retrieve,
 ![Tela de inserir série](https://raw.githubusercontent.com/Rafael-Ienne/minhas_series.abap/main/ilustracoes/INSERIR_DADOS.png)
 ## Tabela ALV que mostra todas as séries
 ![Tela ALV que mostra todas as séries](https://raw.githubusercontent.com/Rafael-Ienne/minhas_series.abap/main/ilustracoes/tela_alv.png)
+## Pop-up para atualizar série e procurar uma série em específico
+![Pop-up encontrar uma série](https://raw.githubusercontent.com/Rafael-Ienne/minhas_series.abap/main/ilustracoes/tela_encontrar_uma_serie.png)
+## Pop-up para deletar série
+![Pop-up deletar série](https://raw.githubusercontent.com/Rafael-Ienne/minhas_series.abap/main/ilustracoes/tela_deletar_serie.png)
 ## Configurações da tabela transparente ZTBSERIES
 ![Configurações tabela transparente](https://raw.githubusercontent.com/Rafael-Ienne/minhas_series.abap/main/ilustracoes/config_tabela_transp_ztbseries.png)
+
