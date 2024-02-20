@@ -3,6 +3,7 @@ Este projeto desenvolvido em ABAP consiste em praticar um CRUD(Create, Retrieve,
 ## Conhecimentos aplicados
 - Criação de classes globais(SE24) e locais;
 - Tela de seleção para a leitura de dados do usuário;
+- Módulo de função(SE37);
 - Modularização de código;
 - OpenSQL;
 - Criação de screens;
@@ -11,3 +12,5 @@ Este projeto desenvolvido em ABAP consiste em praticar um CRUD(Create, Retrieve,
 - ALV.
 
 ![Tela de seleção](https://raw.githubusercontent.com/Rafael-Ienne/minhas_series.abap/main/TELA_SELECAO.png)
+![Tela de inserir série](https://raw.githubusercontent.com/Rafael-Ienne/minhas_series.abap/main/INSERIR_DADOS.png)
+![Tela ALV que mostra todas as séries](https://raw.githubusercontent.com/Rafael-Ienne/minhas_series.abap/main/tela_alv.png)
