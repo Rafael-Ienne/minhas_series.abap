@@ -21,9 +21,10 @@ Este projeto desenvolvido em ABAP consiste em praticar um CRUD(Create, Retrieve,
 ![Pop-up encontrar uma série](https://raw.githubusercontent.com/Rafael-Ienne/minhas_series.abap/main/ilustracoes/tela_encontrar_uma_serie.png)
 ## Tela de atualização de uma série
 ![Tela de atualização série](https://raw.githubusercontent.com/Rafael-Ienne/minhas_series.abap/main/ilustracoes/UPDATE_PAGE.png)
+## Tela que mostra uma série
+![Tela que mostra uma série](https://raw.githubusercontent.com/Rafael-Ienne/minhas_series.abap/main/ilustracoes/find_one.png)
 ## Pop-up para deletar série
 ![Pop-up deletar série](https://raw.githubusercontent.com/Rafael-Ienne/minhas_series.abap/main/ilustracoes/tela_deletar_serie.png)
 ## Configurações da tabela transparente ZTBSERIES
 ![Configurações tabela transparente](https://raw.githubusercontent.com/Rafael-Ienne/minhas_series.abap/main/ilustracoes/config_tabela_transp_ztbseries.png)
-https://raw.githubusercontent.com/Rafael-Ienne/minhas_series.abap/main/ilustracoes/UPDATE_PAGE.png
 
