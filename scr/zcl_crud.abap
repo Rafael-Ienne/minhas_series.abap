@@ -314,7 +314,7 @@ CLASS ZCL_CRUD IMPLEMENTATION.
 
     IF lv_code EQ ''.
       DATA(lt_series) = zcl_crud=>mostrar_tudo( ).
-      SORT lt_series BY id.
+      SORT lt_series BY id ASCENDING.
       LOOP AT lt_sval INTO ls_sval.
         READ TABLE lt_series ASSIGNING FIELD-SYMBOL(<fs_serie>) WITH KEY id = CONV #( ls_sval-value ) BINARY SEARCH.
         IF <fs_serie> IS ASSIGNED.
