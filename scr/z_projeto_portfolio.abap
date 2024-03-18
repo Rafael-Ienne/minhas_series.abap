@@ -254,7 +254,7 @@ MODULE m_show_grid_100 OUTPUT.
 
   FREE: lt_fieldcat[].
 
-  "Tamanho do ALV automático
+  "Largura da coluna do ALV otimizada
   ls_layout-cwidth_opt = 'X'.
   "ALV zebrado ou não
   ls_layout-zebra = 'X'.
