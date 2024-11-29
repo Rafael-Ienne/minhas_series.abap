@@ -1,5 +1,5 @@
 # Projeto CRUD em ABAP
-Este projeto desenvolvido em ABAP consiste em praticar um CRUD(Create, Retrieve, Update, Delete) em cima de tablela de séries (ztbseries).
+Este projeto desenvolvido em ABAP consiste em praticar um CRUD(Create, Retrieve, Update, Delete) em cima de uma tabela de séries (ztbseries).
 ## Conhecimentos aplicados
 - Criação de classes globais(SE24) e locais;
 - Tela de seleção para a leitura de dados do usuário;
